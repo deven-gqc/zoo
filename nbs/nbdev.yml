@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "zoo"
+  site-url: "https://deven-gqc.github.io/zoo"
+  description: "zoo"
+  repo-branch: main
+  repo-url: "https://github.com/deven-gqc/zoo"
